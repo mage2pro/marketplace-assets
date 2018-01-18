@@ -1,0 +1,15 @@
+{
+	"name": "alphacommercehub/metapackage"
+	,"version": "1.0.4"
+	,"description": "AlphaCommerceHub integration with Magento 2"
+	,"type": "magento2-module"
+	,"homepage": "https://mage2.pro/c/extensions/alphacommercehub"
+	,"license": "The MIT License (MIT)"
+	,"authors": [{
+		"name": "Dmitry Fedyuk",
+		"email": "admin@mage2.pro",
+		"homepage": "https://mage2.pro/users/dmitry_fedyuk",
+		"role": "Developer"
+	}]
+	,"require": {"mage2pro/alphacommercehub": ">=1.0.4"}
+}
