@@ -1,6 +1,6 @@
 {
-	"name": "securepayhub/metapackage"
-	,"version": "1.0.5"
+	"name": "sydneycommerce/metapackage"
+	,"version": "1.0.6"
 	,"description": "SecurePayHub integration with Magento 2"
 	,"type": "metapackage"
 	,"homepage": "https://mage2.pro/c/extensions/alphacommercehub"
