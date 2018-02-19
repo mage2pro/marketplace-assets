@@ -1,0 +1,15 @@
+{
+	"name": "securepayhub/metapackage"
+	,"version": "1.0.5"
+	,"description": "SecurePayHub integration with Magento 2"
+	,"type": "metapackage"
+	,"homepage": "https://mage2.pro/c/extensions/alphacommercehub"
+	,"license": "MIT"
+	,"authors": [{
+		"name": "Dmitry Fedyuk",
+		"email": "admin@mage2.pro",
+		"homepage": "https://mage2.pro/users/dmitry_fedyuk",
+		"role": "Developer"
+	}]
+	,"require": {"mage2pro/alphacommercehub": ">=1.0.5"}
+}
